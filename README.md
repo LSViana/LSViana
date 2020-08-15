@@ -4,7 +4,7 @@
 
 I am a proud Web and Mobile Software Developer working and enjoying software development since 2013.
 
-### My journey up to this day
+## My journey up to this day
 
 Started in the development world because of games, I was curious and really intrigued by how everything worked under the hood. I started looking around in the Internet for resources on _how to create games_, then it turned into _how to code games_ and eventually became _how to code_! 😂
 
