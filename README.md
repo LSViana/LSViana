@@ -1,8 +1,8 @@
 # programar é gostosinho. 🌸
 
-## Visit my [personal website](https://lsviana.github.io/)
+## Visit my [personal website](https://lsviana.github.io/) 🎇
 
-I am a proud Web and Mobile Software Developer working and enjoying with programming since 2013.
+I am a proud Web and Mobile Software Developer working and enjoying software development since 2013.
 
 ### My journey up to this day
 
