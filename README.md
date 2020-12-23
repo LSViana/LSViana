@@ -2,7 +2,7 @@
 
 ## Visit my [Personal Website](https://lsviana.github.io/) 🎇
 
-I am a proud Web and Mobile Software Developer working and enjoying software development since 2013.
+I am a Web and Mobile Software Developer working and enjoying software development since 2013. ~UX/UI designer is a goal.~
 
 ## My Journey up to This Day
 
