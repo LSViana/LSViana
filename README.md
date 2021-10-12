@@ -2,7 +2,7 @@
 
 ## Visit my [Personal Website](https://lsviana.github.io/) 🎇
 
-I am a Web Designer (and Mobile Developer as a hobby) working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
+I am a Web Designer (and Mobile Developer during my free time) working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
 ## Check My Skills 🤹‍♂️
 
