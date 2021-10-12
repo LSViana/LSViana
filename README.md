@@ -2,7 +2,7 @@
 
 ## Visit my [Personal Website](https://lsviana.github.io/) 🎇
 
-I am a Web and Mobile Software Developer working and enjoying software development since 2013. ~UX/UI designer is a goal.~
+I am a Web Designer (and Mobile as a hobby) working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
 ## Check My Skills 🤹‍♂️
 
