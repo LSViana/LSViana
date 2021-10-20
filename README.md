@@ -75,4 +75,4 @@ I am a Web Designer (and Mobile Developer during my free time) working at [TestD
 
 ## Contact Me
 
-You can find my contact information in my [personal website](https://lsviana.github.io/). 💻
+You can find my contact information in my [personal website](https://lsviana.github.io/). 💻📱
