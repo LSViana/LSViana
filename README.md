@@ -4,7 +4,7 @@
 
 I am a Web Designer (and Mobile Developer during my free time) working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
-## This is what I know:
+## Interests (some of which I work with):
 
 ### Web:
 
