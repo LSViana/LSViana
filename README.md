@@ -2,7 +2,7 @@
 
 ## Visit my [Personal Website](https://lsviana.github.io/) 🎇
 
-I am a Web Designer (and Mobile Developer during my free time) working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
+Product engineer working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
 ## Interests (some of which I work with):
 
@@ -32,11 +32,6 @@ I am a Web Designer (and Mobile Developer during my free time) working at [TestD
 #### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Mobile:
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### DevOps & Cloud:
 
