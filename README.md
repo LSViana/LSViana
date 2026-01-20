@@ -1,12 +1,10 @@
-# programar é gostosinho. 🌸
+# Visit my [Personal Website](https://lsviana.github.io/) 🎇
 
-## Visit my [Personal Website](https://lsviana.github.io/) 🎇
+Senior software engineer working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
-Product engineer working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
+# Interests (most of which I work with):
 
-## Interests (most of which I work with):
-
-### Front-end
+## Front-end
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -18,7 +16,7 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=00DC82&color=004d2d)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-### Back-end
+## Back-end
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,19 +25,19 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nuget](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
 
-### DevOps & Cloud:
+## DevOps & Cloud:
 
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Testing & QA
+## Testing & QA
 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-### Developer Tools:
+## Developer Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -51,10 +49,14 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-### Design
+## Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Contact Me
+# Contact Me
 
 You can find my contact information in my [personal website](https://lsviana.github.io/). 💻📱
+
+---
+
+programar é gostosinho. 🌸
