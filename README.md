@@ -6,9 +6,7 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 
 ## Interests (some of which I work with):
 
-### Web:
-
-#### Front-end
+### Front-end
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -20,7 +18,7 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=00DC82&color=004d2d)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-#### Back-end
+### Back-end
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,7 +51,7 @@ Product engineer working at [TestDome](https://www.testdome.com/) and enjoying s
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
-#### Design
+### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
