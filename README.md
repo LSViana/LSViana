@@ -4,7 +4,7 @@
 
 Product engineer working at [TestDome](https://www.testdome.com/) and enjoying software development since 2013.
 
-## Interests (some of which I work with):
+## Interests (most of which I work with):
 
 ### Front-end
 
